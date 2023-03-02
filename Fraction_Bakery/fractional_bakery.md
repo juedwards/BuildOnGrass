@@ -1,6 +1,6 @@
 ![alt text](https://github.com/juedwards/MinecraftEducationPythonExamples/blob/main/education-minecraft-logo.png)
 
-## Build Challenge Prompt: "Fractional Bakery"
+## Build Challenge Prompt: Fraction Bakery
 
 # Learning Objectives
 
